@@ -1,6 +1,7 @@
 # Online Payment Fraud Detection System
 
 💳 Online Payment Fraud Detection using Machine Learning
+
 This project aims to detect fraudulent online payment transactions using various supervised machine learning algorithms such as Logistic Regression, Decision Trees, Random Forest, and Artificial Neural Networks (ANN). Given the rising frequency of online transactions, the importance of fraud detection systems has become more critical than ever.
 
 📌 Abstract : With the increase in online payment systems, the threat of fraud has grown significantly. This project focuses on developing a machine learning-based model that can accurately distinguish between fraudulent and non-fraudulent transactions. Using supervised learning algorithms and a real-world inspired dataset from Kaggle, the model was trained and evaluated for performance based on various metrics like Recall, Precision, F1-Score.
